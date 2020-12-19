@@ -8,7 +8,7 @@ Languages I'm currently learning ** 🌱 **
 - Rust
 - GoLang
 
-Languages I work with regularly ** 🍗  ** 
+Languages I work with regularly ** 🍗 ** 
 - Javascript
 - SASS (SCSS)
 - Swift
