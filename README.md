@@ -4,11 +4,11 @@
 - I'm a 15 year old student from New York City
 - I'm a full stack developer working on [Umusique](https://github.com/xamthor/Umusique-App), and a Social Networking application. 
 
-Languages I'm currently learning ** 🌱 ** 
+Languages I'm currently learning **🌱** 
 - Rust
 - GoLang
 
-Languages I work with regularly ** 🍗 ** 
+Languages I work with regularly **🍗** 
 - Javascript
 - SASS (SCSS)
 - Swift
@@ -17,7 +17,7 @@ Languages I work with regularly ** 🍗 **
 - SQL
 - LaTeX
 
-Languages I have worked with in the past ** 🦕 ** 
+Languages I have worked with in the past **🦕** 
 - PHP
 - C++
 
