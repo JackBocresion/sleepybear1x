@@ -2,7 +2,7 @@
 ### I'm Sleepybear1x!
 
 - I'm a 15 year old student from New York City
-- I'm a full stack developer working on [Umusique](https://github.com/xamthor/Umusique-App), and a Social Networking application. 
+- I'm a full stack developer working on [Umusique](https://github.com/xamthor/Umusique-App), and a Social Networking application ( not currently on github 🤫 )
 
 Languages I'm currently learning **🌱** 
 - Rust
