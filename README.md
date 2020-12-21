@@ -24,7 +24,7 @@ Languages I have worked with in the past **🦕**
 - Ruby
 
 #### 🚨Post Scriptum🚨
-Most of my code is either in private repositories, or not on github. \n
+Most of my code is either in private repositories, or not on github.<br/>
 I just purged most of my junk repos, and will start to upload any new projects I start into new repos 👌
 
 ![my github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepybear1x&show_icons=true&theme=dark)
