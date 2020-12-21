@@ -15,10 +15,16 @@ Languages I work with regularly **🍗**
 - C (wasm)
 - Python
 - SQL
-- LaTeX
+- Bash
 
 Languages I have worked with in the past **🦕** 
 - PHP
 - C++
+- C#
+- Ruby
 
-![my github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepybear1x&show_icons=true&theme=default)
+#### 🚨Post Scriptum🚨
+Most of my code is either in private repositories, or not on github. 
+I just purged most of my junk repos, and will start to upload any new projects I start into new repos 👌
+
+![my github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepybear1x&show_icons=true&theme=dark)
