@@ -12,7 +12,7 @@ Languages I work with regularly **🍗**
 - Javascript
 - SASS (SCSS)
 - Swift
-- C (wasm)
+- C
 - Python
 - SQL
 - Bash
